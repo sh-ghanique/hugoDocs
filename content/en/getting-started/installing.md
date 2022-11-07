@@ -175,7 +175,7 @@ Since building from source is appealing to more seasoned command-line users, thi
 Go to the `brew` website, <https://brew.sh>, and follow the directions there. The most important step is the installation from the command line:
 
 {{< code file="install-brew.sh" >}}
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 {{< /code >}}
 
 #### Step 2: Run the `brew` Command to Install `hugo`
