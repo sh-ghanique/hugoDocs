@@ -538,12 +538,6 @@
         ]
       },
       {
-        "Name": "Go HTML Template",
-        "Aliases": [
-          "go-html-template"
-        ]
-      },
-      {
         "Name": "Go Text Template",
         "Aliases": [
           "go-text-template"
